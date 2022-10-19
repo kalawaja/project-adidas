@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+#ana{
+    width: 960px;
+    margin: auto;
+}
+header{
+    border-bottom: 1px solid #000000;
+    padding: 15px;
+}
+.logo{
+    width: 120px;
+    float: left;
+}
+.ustsag{
+    float: right;
+}
+.sosyal{
+    float: left;
+}
+a{
+    text-decoration: none;
+    margin-right: 4px;
+}
+.ara{
+    float: right;
+    margin-top: 10px;
+}
+.textara{
+    height: 36px;
+    border-bottom: 1px solid #000;
+    float: left;
+}
+#search-icon {
+    background: url(../images/search_btn2.png) no-repeat;
+    width: 36px;
+    height: 36px;
+    float: left;
+    border: none;
+}
+.temizle{
+    clear: both;
+}
+.menu{
+    background: #000;
+    height: 40px;
+    min-height: 40px;
+    margin-top: 10px;
+}
+.menu ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.menu ul li{
+    float: left;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 0px 15px;
+    font-size: 16px;
+    line-height: 40px;
+    color: #fff;
+    display: block;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+}
+.menu ul li a:hover{
+    background: #fff;
+    color: #000;
+    border-bottom: 2px solid #000;
+    box-shadow: 0px 5px 10px #333;
+}
+.slider{
+    margin-top: 30px;
+}
+.kampanyalar{
+    margin-left: -30px;
+}
+.sutun{
+    width: 300px;
+    height: 400px;
+    float: left;
+    background: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.bolum-one {
+    margin-bottom: 25px;
+}
+.bolum-two {
+    margin-top: 30px;
+}
